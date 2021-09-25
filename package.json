@@ -1,15 +1,15 @@
 {
   "name": "kaki-default-token-list",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "The KakiDex default token list",
-  "main": "build/venomswap-default.tokenlist.json",
+  "main": "build/kaki-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/venomswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/kaki-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/venomswap-default.tokenlist.json"
+    "build/kaki-default.tokenlist.json"
   ],
   "keywords": [
     "default",
