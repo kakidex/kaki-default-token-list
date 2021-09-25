@@ -1,6 +1,6 @@
 {
   "name": "kaki-default-token-list",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "description": "The KakiDex default token list",
   "main": "build/venomswap-default.tokenlist.json",
   "scripts": {
