@@ -7,6 +7,14 @@
 		"chainId": 137,
 		"logoURI": "https://raw.githubusercontent.com/kakidex/tokens/main/KAKI.png"
 	  },
+	  {
+		"name": "Kaki Pit",
+		"address": "0xdCeF356230C88DfC44E90C7434f066Dd3e44a925",
+		"symbol": "xKAKI",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/kakidex/tokens/main/xKAKI.png"
+	  },
 	{
 	  "name": "Dai Stablecoin",
 	  "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",

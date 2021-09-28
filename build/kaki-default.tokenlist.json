@@ -1,10 +1,10 @@
 {
   "name": "Kaki Default",
-  "timestamp": "2021-09-25T12:46:46.523Z",
+  "timestamp": "2021-09-28T15:10:51.911Z",
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/kakidex/tokens/main/KAKI.png",
@@ -124,6 +124,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+    },
+    {
+      "name": "Kaki Pit",
+      "address": "0xdCeF356230C88DfC44E90C7434f066Dd3e44a925",
+      "symbol": "xKAKI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/kakidex/tokens/main/xKAKI.png"
     }
   ]
 }
